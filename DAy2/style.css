@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#page1{
+    width: 100%;
+    height: 100%;
+    background: rgb(65, 188, 225);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page2{
+    width: 100%;
+    height: 100%;
+    background: rgb(166, 65, 225);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#page3{
+    width: 100%;
+    height: 100%;
+    background: rgb(65, 225, 156);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box{
+    width: 200px;
+    height: 200px;
+    background: #d47272;
+}
